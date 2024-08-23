@@ -1,4 +1,4 @@
-# Pitch Perfect: Predicting Soccer Game Positioning
+# Pitch Perfect: Predicting Soccer Game Positioning (Hacklytics 2024)
 
 ## Instructions:
 1. Create `venv` and install necsessary libraries using the `requirements.txt` file.
